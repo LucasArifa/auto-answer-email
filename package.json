@@ -1,0 +1,27 @@
+{
+  "name": "responsive-email-marketing",
+  "version": "1.0.0",
+  "description": "That's the Email Marketing by Indenize Viagens business., such as the lordy's Lucas Arifa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasArifa/responsive-email-marketing.git"
+  },
+  "keywords": [
+    "Indenize",
+    "Viagens",
+    "Email",
+    "Marketing",
+    "Responsive",
+    "Business"
+  ],
+  "author": "Lucas Arifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasArifa/responsive-email-marketing/issues"
+  },
+  "homepage": "https://github.com/LucasArifa/responsive-email-marketing#readme"
+}
